@@ -12,7 +12,7 @@ it does a recursive call.
 
 Once the tree is complete, a prefix path reading is done to do the computation.
 
-(See [this](https://lh3.googleusercontent.com/proxy/Tf0ykXPai-eeTJ8TLD_2Oa8jbAZR4MzXTBuYcwD_UK8JMf00dat1WxIq-OgfpWcWFSnn2cHUO06bKknqSOcYmyhSDDjhhA) for reference)
+(See [this](http://aqualonne.free.fr/dossiers/algo/c08.gif) for reference)
 
 Below are examples of trees.
 
